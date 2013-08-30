@@ -1,4 +1,16 @@
 IPythonIsGreat
 ==============
 
-IPython notebooks and other resources for my talk "IPython is Great (for large-scale computation, data exploration, and creating reproducible research artifacts)" which I presented at a Stanford Graphics Laboratory group meeting in May 2013, as well as at the Harvard Visual Computing Group retreat in August 2013.
+IPython notebooks and other resources for my talk _IPython is Great (for large-scale computation, data exploration, and creating reproducible research artifacts)_. I presented this talk at a Stanford Graphics Laboratory group meeting in May 2013, as well as at the Harvard Visual Computing Group retreat in August 2013.
+
+The Keynote file containing my slides is contained in this Github repository. Alternatively you can download my slides as a <a href='https://github.com/mroberts3000/IPythonIsGreat/raw/master/IPython is Great.pdf'>PDF</a>. All my tutorial code can be browsed online with the <a href='http://nbviewer.ipython.org/'>IPython Notebook Viewer</a> using the links below.
+
+1. <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/IPythonIsGreat/master/IPython/01 Documenting your Research Journey.ipynb'>Documenting your Research Journey</a>
+2. <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/IPythonIsGreat/master/IPython/02 Interactively Exploring your Data with Mayavi.ipynb'>Interactively Exploring your Data with Mayavi</a>
+3. <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/IPythonIsGreat/master/IPython/03 Exploiting Cluster-Level Parallelism.ipynb'>Exploiting Cluster-Level Parallelism</a>
+4. <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/IPythonIsGreat/master/IPython/04 Using Cython for Extra Performance.ipynb'>Using Cython for Extra Performance</a>
+5. <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/IPythonIsGreat/master/IPython/05 Using Qt from within IPython.ipynb'>Using Qt from within IPython</a>
+
+If you hit any roadblocks, check out my <a href='https://www.evernote.com/shard/s231/sh/17b319b1-68c1-4ae0-968c-a46b3657b145/4ef5dd4ab15e91815bf17d8f25508eb5'>development environment setup instructions</a> and the <a href='http://ipython.org/documentation.html'>official IPython documentation</a>.
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/4a516f7769aabae126d89c11e4a90660 "githalytics.com")](http://githalytics.com/mroberts3000/IPythonIsGreat)
