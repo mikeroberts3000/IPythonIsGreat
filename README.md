@@ -11,6 +11,6 @@ The Keynote file containing my slides is contained in this Github repository. Al
 4. <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/IPythonIsGreat/master/IPython/04 Using Cython for Extra Performance.ipynb'>Using Cython for Extra Performance</a>
 5. <a href='http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/IPythonIsGreat/master/IPython/05 Using Qt from within IPython.ipynb'>Using Qt from within IPython</a>
 
-If you hit any roadblocks, check out my <a href='https://www.evernote.com/shard/s231/sh/17b319b1-68c1-4ae0-968c-a46b3657b145/4ef5dd4ab15e91815bf17d8f25508eb5'>development environment setup instructions</a> and the <a href='http://ipython.org/documentation.html'>official IPython documentation</a>.
+If you hit any roadblocks, check out my <a href='https://www.evernote.com/shard/s231/sh/8bb33cf0-d293-40b1-97e3-5a83e8a06ccf/ad73af4d68a2f062ad22c4557d5136cc'>development environment setup instructions</a> and the <a href='http://ipython.org/documentation.html'>official IPython documentation</a>.
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/4a516f7769aabae126d89c11e4a90660 "githalytics.com")](http://githalytics.com/mroberts3000/IPythonIsGreat)
