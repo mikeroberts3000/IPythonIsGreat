@@ -1,7 +1,7 @@
 IPythonIsGreat
 ==============
 
-IPython notebooks and other resources from my talk _IPython is Great (for large-scale computation, data exploration, and creating reproducible research artifacts)_. The slides and IPython notebooks from my talk were featured in the Data Science course at Harvard.
+IPython notebooks and other resources from my talk _IPython is Great (for large-scale computation, data exploration, and creating reproducible research artifacts)_. The slides and IPython notebooks from my talk were featured in the 2013 Data Science course at Harvard.
 
 The Keynote file containing my slides is contained in this Github repository. Alternatively you can download my slides as a <a href='https://github.com/mroberts3000/IPythonIsGreat/raw/master/IPython is Great.pdf'>PDF</a>. All my tutorial code can be browsed online with the <a href='http://nbviewer.ipython.org/'>IPython Notebook Viewer</a> using the links below.
 
